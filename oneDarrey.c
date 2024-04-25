@@ -8,7 +8,7 @@ int main()
     {
         printf("%d", a[i]);
     }
-        
+
     /* code */
     return 0;
 }
